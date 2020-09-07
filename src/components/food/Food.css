@@ -1,0 +1,10 @@
+.food {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 50%;
+  top: 50%;
+  background-color: orangered;
+  border: 0.1px solid #eee;
+  z-index: 1;
+}

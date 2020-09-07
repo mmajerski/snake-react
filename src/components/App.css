@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container-game {
+  position: relative;
+  margin: 20px auto;
+  width: 600px;
+  height: 600px;
+  /* width: 600px;
+  height: 480px; */
+  border: 12px solid #000;
+}

@@ -1,0 +1,19 @@
+.dot {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 0;
+  top: 0;
+  background-color: yellowgreen;
+  border: 0.1px solid #eee;
+}
+
+.dot-head {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 0;
+  top: 0;
+  background-color: #a34bde;
+  border: 0.1px solid #eee;
+}
